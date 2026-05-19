@@ -34,20 +34,6 @@ Projeyi klonladığınızda karşılaşacağınız temel dizin yapısı aşağı
 ```
 ---
 
-## ⚙️ Kurulum ve Çalıştırma
-
-Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla izleyin:
-
-### 1. Projeyi bilgisayarınıza klonlayın
-
-### 2. Bağımlılıkları kurun
-
-Projenin ihtiyaç duyduğu kütüphaneleri yüklemek için terminal (komut satırı) üzerinden aşağıdaki komutu çalıştırın:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### 3. Uygulamayı çalıştırın
 
 Tüm kurulumlar tamamlandıktan sonra aynı terminal ekranında simülasyonu başlatmak için:
@@ -110,3 +96,17 @@ Sistem davranışını belirleyen toplam **20 adet çapraz denetimli kural** bul
 2. 🚀 **UYGULAMAYI BAŞLAT** butonuna basın.
 3. Ana ekranda beliren **Sistem Modu**, **Kompresör Sinyal Genliği (PWM)** ve **Çıkış Grafiğini** analiz edin.
 4. Alt kısımdaki **Log Tablosu** üzerinden yaptığınız farklı test senaryolarını (Şehir içi sürüş, hızlı şarj vb.) kıyaslayın ve cihazınıza indirin.
+
+## ⚙️ Kurulum ve Çalıştırma
+
+Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla izleyin:
+
+### 1. Projeyi bilgisayarınıza klonlayın
+
+### 2. Bağımlılıkları kurun
+
+Projenin ihtiyaç duyduğu kütüphaneleri yüklemek için terminal (komut satırı) üzerinden aşağıdaki komutu çalıştırın:
+
+```bash
+pip install -r requirements.txt
+```
