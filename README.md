@@ -82,7 +82,7 @@ Sistem davranışını belirleyen toplam **20 adet çapraz denetimli kural** bul
 ## 📸 Kullanım Senaryosu
 
 1. Sol taraftaki **Giriş Değerleri** menüsünden araç hızını, batarya sıcaklığını, motor yükünü vb. parametreleri anlık olarak ayarlayın.
-2. 🚀 **UYGULAMAYI BAŞLAT** butonuna basın.
+2. **UYGULAMAYI BAŞLAT** butonuna basın.
 3. Ana ekranda beliren **Sistem Modu**, **Kompresör Sinyal Genliği (PWM)** ve **Çıkış Grafiğini** analiz edin.
 4. Alt kısımdaki **Log Tablosu** üzerinden yaptığınız farklı test senaryolarını (Şehir içi sürüş, hızlı şarj vb.) kıyaslayın ve cihazınıza indirin.
 
