@@ -1,4 +1,4 @@
-# 🔋 Elektrikli Araçlar İçin Bulanık Mantık Tabanlı Batarya Sıcaklık Yönetimi
+# 🔋 Bulanık Mantık Tabanlı Batarya Sıcaklık Yönetimi
 
 ![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)
