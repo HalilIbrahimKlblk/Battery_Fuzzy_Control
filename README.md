@@ -26,11 +26,12 @@ Bu proje, Elektrikli Araçlarda (EV) batarya sıcaklığını optimize etmek ama
 Projeyi klonladığınızda karşılaşacağınız temel dizin yapısı aşağıdaki gibidir:
 
 ```text
-📁 fuzzy-battery-thermal-management
-├── 📄 app.py               # Ana simülasyon kodları, UI ve bulanık mantık kuralları
-├── 📄 requirements.txt     # Projenin çalışması için gereken kütüphaneler listesi
-├── 📄 README.md            # Proje dokümantasyonu (Bu dosya)
-└── 📂 assets/              # (Opsiyonel) Projeye ait ekran görüntüleri veya loglar
+📁 Battery_Fuzzy_Control
+├── 📄 app.py              
+├── 📄 requirements.txt     
+├── 📄 README.md
+├── 📄 .gitignore        
+└── 📂 assets/             
 ```
 ---
 
