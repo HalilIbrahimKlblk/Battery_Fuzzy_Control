@@ -48,9 +48,8 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları s
 Projenin ihtiyaç duyduğu kütüphaneleri yüklemek için terminal (komut satırı) üzerinden aşağıdaki komutu çalıştırın:
 
 ```bash
-pip install streamlit numpy matplotlib scikit-fuzzy pandas
+pip install -r requirements.txt
 ```
-*(Alternatif olarak `pip install -r requirements.txt` komutunu da kullanabilirsiniz.)*
 
 ### 3. Uygulamayı çalıştırın
 
