@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+
+# Sanal ortam dosyaları 
+venv/
+env/
+
+# Editörlerin ayar klasörleri
+.vscode/
+.idea/
+
+# İşletim sisteminin dosyaları
+.DS_Store
+Thumbs.db
+
+# Uygulamanın veri veya log dosyaları
+*.csv
+*.log
