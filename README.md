@@ -43,11 +43,6 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları s
 
 ### 1. Projeyi bilgisayarınıza klonlayın
 
-```bash
-git clone [https://github.com/kullanici-adiniz/fuzzy-battery-thermal-management.git](https://github.com/kullanici-adiniz/fuzzy-battery-thermal-management.git)
-cd fuzzy-battery-thermal-management
-```
-
 ### 2. Bağımlılıkları kurun
 
 Projenin ihtiyaç duyduğu kütüphaneleri yüklemek için terminal (komut satırı) üzerinden aşağıdaki komutu çalıştırın:
@@ -119,9 +114,3 @@ Sistem davranışını belirleyen toplam **20 adet çapraz denetimli kural** bul
 2. 🚀 **UYGULAMAYI BAŞLAT** butonuna basın.
 3. Ana ekranda beliren **Sistem Modu**, **Kompresör Sinyal Genliği (PWM)** ve **Çıkış Grafiğini** analiz edin.
 4. Alt kısımdaki **Log Tablosu** üzerinden yaptığınız farklı test senaryolarını (Şehir içi sürüş, hızlı şarj vb.) kıyaslayın ve cihazınıza indirin.
-
----
-
-## 📝 Lisans ve İletişim
-
-Bu proje açık kaynaklı olup, eğitim ve akademik çalışma süreçlerine katkı sağlamak amacıyla oluşturulmuştur. Dilediğiniz gibi forklayabilir, inceleyebilir veya kendi projelerinizde altlık olarak kullanabilirsiniz.
