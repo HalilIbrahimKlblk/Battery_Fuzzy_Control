@@ -32,9 +32,6 @@ Projeyi klonladığınızda karşılaşacağınız temel dizin yapısı aşağı
 ├── 📄 README.md            # Proje dokümantasyonu (Bu dosya)
 └── 📂 assets/              # (Opsiyonel) Projeye ait ekran görüntüleri veya loglar
 ```
-
-*(Not: Eğer projenizde henüz bir `requirements.txt` dosyanız yoksa, proje ana dizininde bir metin belgesi oluşturup içine `streamlit`, `numpy`, `matplotlib`, `scikit-fuzzy`, `pandas` yazarak kaydedebilirsiniz.)*
-
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
