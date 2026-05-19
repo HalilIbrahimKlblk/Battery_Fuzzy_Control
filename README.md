@@ -71,7 +71,7 @@ Sistem, karar verme sürecinde **Mamdani Çıkarım Yöntemini** kullanır. Aşa
 | **🌡️ Batarya Sıcaklığı** | `0 - 60 °C` | Düşük, Optimum, Yüksek, Kritik |
 | **⚡ Motor Akım Yükü** | `% 0 - 100` | Sakin, Normal, Agresif |
 | **🌍 Dış Ortam Sıcaklığı** | `-10 - 50 °C` | Soğuk, Ilık, Sıcak |
-| **🚗 Araç Hızı** | `0 - 160 km/h` | Yavaş, Orta, Yüksek |
+| **🚗 Araç Hızı** | `0 - 220 km/h` | Yavaş, Orta, Yüksek |
 | **🔋 Şarj Seviyesi (SoC)** | `% 0 - 100` | Düşük, Orta, Tam Dolu |
 | **❄️ Kabin Klima Talebi** | `% 0 - 100` | Kapalı, Düşük, Yüksek |
 
