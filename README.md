@@ -34,4 +34,3 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 Proje dizininde bir terminal açın ve aşağıdaki komutu çalıştırarak bağımlılıkları indirin:
 ```bash
 pip install streamlit numpy matplotlib scikit-fuzzy pandas
-streamlit run app.py
