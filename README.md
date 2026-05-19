@@ -5,7 +5,7 @@
 ![Scikit-Fuzzy](https://img.shields.io/badge/Scikit--Fuzzy-0.4.2-green.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Bu proje, Elektrikli Araçlarda (EV) batarya sıcaklığını optimize etmek amacıyla **Bulanık Mantık (Fuzzy Logic)** kullanılarak geliştirilmiş akıllı bir kontrol ve simülasyon panelidir. Sistem; sürüş dinamiklerini ve çevre koşullarını eşzamanlı analiz ederek batarya soğutma pompasının (kompresör) anlık güç ihtiyacını belirler.
+Bu proje, Elektrikli Araçlarda (EV) batarya sıcaklığını optimize etmek amacıyla **Bulanık Mantık (Fuzzy Logic)** kullanılarak geliştirilmiş akıllı bir kontrol ve simülasyon panelidir. Sistem sürüş dinamiklerini ve çevre koşullarını eşzamanlı analiz ederek batarya soğutma pompasının (kompresör) anlık güç ihtiyacını belirler.
 
 > 🎓 *Bulanık Mantık Dersi Dönem Projesi kapsamında tasarlanmış ve geliştirilmiştir.*
 
