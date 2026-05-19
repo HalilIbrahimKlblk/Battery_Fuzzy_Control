@@ -34,18 +34,6 @@ Projeyi klonladığınızda karşılaşacağınız temel dizin yapısı aşağı
 ```
 ---
 
-### 3. Uygulamayı çalıştırın
-
-Tüm kurulumlar tamamlandıktan sonra aynı terminal ekranında simülasyonu başlatmak için:
-
-```bash
-streamlit run app.py
-```
-
-> **Not:** Komutu girdikten sonra tarayıcınız otomatik olarak `http://localhost:8501` adresinde açılacaktır.
-
----
-
 ## 🧠 Bulanık Mantık Mimarisi ve Parametreler
 
 Sistem, karar verme sürecinde **Mamdani Çıkarım Yöntemini** kullanır. Aşağıdaki tablolarda sistemin girdi (Antecedent) ve çıktı (Consequent) değişkenleri detaylandırılmıştır.
@@ -97,6 +85,8 @@ Sistem davranışını belirleyen toplam **20 adet çapraz denetimli kural** bul
 3. Ana ekranda beliren **Sistem Modu**, **Kompresör Sinyal Genliği (PWM)** ve **Çıkış Grafiğini** analiz edin.
 4. Alt kısımdaki **Log Tablosu** üzerinden yaptığınız farklı test senaryolarını (Şehir içi sürüş, hızlı şarj vb.) kıyaslayın ve cihazınıza indirin.
 
+---
+
 ## ⚙️ Kurulum ve Çalıştırma
 
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla izleyin:
@@ -110,3 +100,13 @@ Projenin ihtiyaç duyduğu kütüphaneleri yüklemek için terminal (komut satı
 ```bash
 pip install -r requirements.txt
 ```
+
+### 3. Uygulamayı çalıştırın
+
+Tüm kurulumlar tamamlandıktan sonra aynı terminal ekranında simülasyonu başlatmak için:
+
+```bash
+streamlit run app.py
+```
+
+> **Not:** Komutu girdikten sonra tarayıcınız otomatik olarak `http://localhost:8501` adresinde açılacaktır.
